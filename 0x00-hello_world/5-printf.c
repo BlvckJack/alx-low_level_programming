@@ -1,12 +1,11 @@
 #include<stdio.h>
 /**
- *main - print string in printf function
+ *main - Entry point
  *Description : using the main function
- *This program prints "with proper grammar, but the outcome is a piece of art"
- *Return 0
+ *Return : always 0
  */
 
-int main(void)
+void main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
