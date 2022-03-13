@@ -2,10 +2,9 @@
 /**
  *main - Entry point
  *Description : using the main function
- *Return : always 0
+ *return : 0
  */
-
-void main(void)
+main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
